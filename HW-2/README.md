@@ -168,3 +168,15 @@ This project demonstrates how machine learning can effectively approximate a phy
 
 - Kshitij gupta
 - Sabyrzhan llessov
+
+## GitHub Repository
+
+The complete code, notebooks, dataset, and report for this assignment are available here:
+
+https://github.com/kgupt0310/AV_Assignments.git
+This repository contains:
+- Physics simulator notebook
+- ML surrogate notebook
+- Generated dataset
+- Plots and results
+- Final report
